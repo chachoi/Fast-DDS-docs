@@ -241,6 +241,7 @@ Valgrind
 vcstool
 wget
 whitelist
+whitelisting
 whitelists
 WiFi
 Wireshark
